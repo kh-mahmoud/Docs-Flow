@@ -68,7 +68,7 @@ function Editor({ roomId, currentUserType }: { roomId: string, currentUserType: 
   return (
     <LexicalComposer initialConfig={initialConfig}>
       <div
-        className="editor-container size-full border-2"
+        className="editor-container size-full"
         onPointerMove={handlePointerMove}
         onPointerLeave={handlePointerLeave}
       >
