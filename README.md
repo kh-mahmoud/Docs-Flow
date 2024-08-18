@@ -25,6 +25,7 @@ Stay in the loop with real-time notifications powered by Liveblocks. Whether som
 We believe that powerful tools shouldn’t be complicated to use. Docs Flow is designed with a clean, intuitive interface that makes document creation and collaboration feel natural. Whether you're a tech enthusiast or someone who prefers simplicity, Docs Flow adapts to your workflow, making it accessible for everyone. 
 
 
-💡 Get Started explore the features, and start collaborating with Docs Flow today. Whether you're working on a simple memo or an extensive project, Docs Flow ensures your documents are always up-to-date and accessible to your team.
+# Get Started Today 🎉
+Explore the features, and start collaborating with Docs Flow today. Whether you're working on a simple memo or an extensive project, Docs Flow ensures your documents are always up-to-date and accessible to your team.
 
 Use the link to join us : https://docs-flow-beta.vercel.app
