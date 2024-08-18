@@ -19,7 +19,7 @@ const LiveCursors = ({ others }: LiveCursorProps) => {
                 others.map((other) => {
                     if (!other.presence.cursor ) return null;
                     if (!other.info) return null;
-
+           
                     return (
                         <Cursor
                             key={`cursor-${other.connectionId}`}
