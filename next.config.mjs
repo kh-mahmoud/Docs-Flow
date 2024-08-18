@@ -14,7 +14,7 @@ export default withSentryConfig(nextConfig, {
 // https://github.com/getsentry/sentry-webpack-plugin#options
 
 org: "messa-ih",
-project: "messa-ih/docs-flow",
+project: "docs-flow",
 
 // Only print logs for uploading source maps in CI
 silent: !process.env.CI,
