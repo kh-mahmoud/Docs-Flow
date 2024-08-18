@@ -1,9 +1,6 @@
-import { BaseUserMeta, User } from "@liveblocks/client";
 import Cursor from "./Cursor";
 
 
-
-type Presence = any;
 
 type LiveCursorProps = {
     others: any;
@@ -16,7 +13,7 @@ const LiveCursors = ({ others }: LiveCursorProps) => {
     return (
         <div>
             {
-                others.map((other) => {
+                others.map((other:any) => {
                     if (!other.presence.cursor) return null;
                     if (!other.info) return null;
 
